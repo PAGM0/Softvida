@@ -1,0 +1,31 @@
+*{margin: 0; border:0;}
+body{background-color: #ffffff}
+nav{background-color: #341198; padding: 20px;}
+li{list-style: none; display: inline-block;}
+a{text-decoration: none; color: #ffffff; padding: 0px 30px;}
+h1{color: #341198; font-size: 25px; padding: 20px; text-align-last: center; font-family:'Satisfy', cursive;}
+.contenedor{width: 25%; margin: auto;}
+img{width: 300px;}
+
+
+footer{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	justify-content: space-around;
+	align-items: center;
+
+	background-color:#341198;
+	padding: 20px 10px; 
+}
+
+footer div.copy p{
+	color: white;
+}
+
+footer div.redes a{
+	color: white;
+	padding: 0px 12px;
+	text-decoration: none;
+	font-size: 20px;
+}
